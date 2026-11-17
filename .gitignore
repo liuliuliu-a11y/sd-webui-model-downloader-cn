@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.auth-backup
+.pytest_cache/
+.env
+bin/aria2c.exe
+bin/aria2c
+*.part
+*.aria2
+*.aria2__temp
